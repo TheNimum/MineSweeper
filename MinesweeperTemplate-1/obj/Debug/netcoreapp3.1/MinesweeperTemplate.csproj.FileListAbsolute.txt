@@ -1,0 +1,13 @@
+C:\Users\Paja\Desktop\Systemutveckling\MinesweeperTemplate-1\obj\Debug\netcoreapp3.1\MinesweeperTemplate.csprojAssemblyReference.cache
+C:\Users\Paja\Desktop\Systemutveckling\MinesweeperTemplate-1\obj\Debug\netcoreapp3.1\MinesweeperTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Paja\Desktop\Systemutveckling\MinesweeperTemplate-1\obj\Debug\netcoreapp3.1\MinesweeperTemplate.AssemblyInfoInputs.cache
+C:\Users\Paja\Desktop\Systemutveckling\MinesweeperTemplate-1\obj\Debug\netcoreapp3.1\MinesweeperTemplate.AssemblyInfo.cs
+C:\Users\Paja\Desktop\Systemutveckling\MinesweeperTemplate-1\bin\Debug\netcoreapp3.1\MinesweeperTemplate.exe
+C:\Users\Paja\Desktop\Systemutveckling\MinesweeperTemplate-1\bin\Debug\netcoreapp3.1\MinesweeperTemplate.deps.json
+C:\Users\Paja\Desktop\Systemutveckling\MinesweeperTemplate-1\bin\Debug\netcoreapp3.1\MinesweeperTemplate.runtimeconfig.json
+C:\Users\Paja\Desktop\Systemutveckling\MinesweeperTemplate-1\bin\Debug\netcoreapp3.1\MinesweeperTemplate.runtimeconfig.dev.json
+C:\Users\Paja\Desktop\Systemutveckling\MinesweeperTemplate-1\bin\Debug\netcoreapp3.1\MinesweeperTemplate.dll
+C:\Users\Paja\Desktop\Systemutveckling\MinesweeperTemplate-1\bin\Debug\netcoreapp3.1\MinesweeperTemplate.pdb
+C:\Users\Paja\Desktop\Systemutveckling\MinesweeperTemplate-1\obj\Debug\netcoreapp3.1\MinesweeperTemplate.dll
+C:\Users\Paja\Desktop\Systemutveckling\MinesweeperTemplate-1\obj\Debug\netcoreapp3.1\MinesweeperTemplate.pdb
+C:\Users\Paja\Desktop\Systemutveckling\MinesweeperTemplate-1\obj\Debug\netcoreapp3.1\MinesweeperTemplate.genruntimeconfig.cache
