@@ -100,14 +100,12 @@ namespace MineSweeper
             {
                 System.Console.WriteLine("can't flag this position.");
                 return false;
-
             }
             else
             {
                 if (flagged)
                 {
                     symbol = (char)GameSymbol.NotSweeped; // denna tar bort flaggan om du plaserar på en redan flaggad position. 
-
                 }
                 else
                 {
@@ -141,10 +139,12 @@ namespace MineSweeper
                     symbol = char.Parse(closeMineCount.ToString());
                 }
                 return true;
+            }else
+            {
+               System.Console.WriteLine("wrong command");
+               return false; 
             }
-            
-            
-            return false;
+        
         }
 
     }

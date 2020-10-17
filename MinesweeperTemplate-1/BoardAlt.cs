@@ -127,7 +127,12 @@ namespace MineSweeper
                         {
                             if (r != -1 && r != 10 && c != -1 && c != 10)
                             {
-                                TrySweep(r, c);
+                                if(!board[r,c].IsSweeped)
+                                {
+                                 TrySweep(r, c);
+                                 continue;   
+                                }
+                                
 
                             }
                         }
@@ -136,7 +141,7 @@ namespace MineSweeper
                 }
                 sweepedCount++;
 
-                if (sweepedCount == 90)
+                if (sweepedCount == 90 && !board[row,col].IsSweeped) //  Det finns 10 minor av 100 rutor så 90 sweepes för att vinna.
                 {
                     playerwon = true;
 
